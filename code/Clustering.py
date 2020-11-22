@@ -21,11 +21,6 @@ def get_sorted_ind(x):
 	return idx	
 
 def heatmap(x, xlabel, title, filename):
-	"""
-	This below code is based in large part on the protype methods:
-	http://old.nabble.com/How-to-plot-heatmap-with-matplotlib--td32534593.html
-	http://stackoverflow.com/questions/7664826/how-to-get-flat-clustering-corresponding-to-color-clusters-in-the-dendrogram-cre
-	"""	
 	cmap=plt.cm.bwr
 	#cmap=plt.get_cmap('coolwarm')
 	default_window_hight = 10
