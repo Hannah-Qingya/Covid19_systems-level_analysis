@@ -10,7 +10,7 @@ Fangyuan Chen†, 1, 2, Qingya Shi†, 1, 2, Fen Pei†,1,3, Andreas Vogt†,1,3
 
 =====================================================================================
 
-Code
+Codes
 
 DESeq2_antiviral.ipynb: code for evaluation of host-targeted antiviral signature from SARS-CoV-2-infected A549 cells.
 
