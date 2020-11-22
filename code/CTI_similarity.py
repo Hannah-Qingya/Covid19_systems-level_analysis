@@ -5,7 +5,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 import pandas as pd 
 
 folder = '../data/'
-for tag in ['Antiviral/clustering/','Anticytokine/clustering/']: 
+for tag in ['Antiviral/','Anticytokine/']: 
 	chem_file = folder + tag + 'top_compounds.txt'
 	t_file = folder + tag + 'targets_for_compounds.txt'
 	dt_file = folder + tag + 'interactions_for_compounds.txt'
