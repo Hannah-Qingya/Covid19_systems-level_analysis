@@ -1,4 +1,3 @@
-
 # calculate pairwise chemical-chemical CTI similarity given a list of chemicals
 
 import numpy as np
