@@ -1,6 +1,5 @@
-"""
-cluster chemicals based on their similarities
-"""
+#cluster chemicals based on their similarities
+
 import pandas as pd
 import numpy as np 
 import matplotlib as mpl
@@ -98,7 +97,7 @@ def get_clusters(simi_file, cid2ind, cids, x_label, title, simi_plot, out_matrix
 
 def my_main():
 	folder = '../data/'
-	for tag in ['Antiviral/','Anticytokine/']: 
+	for tag in ['Antiviral/clustering/','Anticytokine/clustering/']: 
 		chem_file = folder + tag + 'top_compounds.txt'
 		chem_out = folder + tag + 'top_compounds_with_clusters.txt'
 		x_label = 'Prioritized compounds'
@@ -116,7 +115,7 @@ def my_main():
 		title = 'Interaction-pattern-based clustering' 
 
 		cid2new_order = get_clusters(simi_file, cid2ind, cids, x_label, title, simi_plot, out_matrix)
-		chem_df['order_' + simi_type] = chem_df.apply(lambda x: cid2new_order[str(x['Index'])], axis = 1)
+		chem_df['order_CTI'] = chem_df.apply(lambda x: cid2new_order[str(x['Index'])], axis = 1)
 	chem_df.fillna('NA', inplace = True)
 	chem_df.to_csv(chem_out, index = False, sep = '\t')
 
