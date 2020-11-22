@@ -1,0 +1,1013 @@
+Rank	Uniprot_ID	Num_Compounds	Protein_Name	Gene_Name	Gene_ID
+1	P28223	26	5-hydroxytryptamine receptor 2A 	HTR2A	3356
+2	P35348	24	Alpha-1A adrenergic receptor 	ADRA1A	148
+3	P41595	22	5-hydroxytryptamine receptor 2B 	HTR2B	3357
+4	P28335	22	5-hydroxytryptamine receptor 2C 	HTR2C	3358
+5	P35368	21	Alpha-1B adrenergic receptor 	ADRA1B	147
+6	P14416	21	Dopamine D2 receptor	DRD2	1813
+7	P35462	21	Dopamine D3 receptor	DRD3	1814
+8	P35367	21	Histamine H1 receptor 	HRH1	3269
+9	P25100	19	Alpha-1D adrenergic receptor 	ADRA1D	146
+10	P08913	19	Alpha-2A adrenergic receptor 	ADRA2A	150
+11	P18089	17	Alpha-2B adrenergic receptor 	ADRA2B	151
+12	P08908	16	5-hydroxytryptamine receptor 1A	HTR1A	3350
+13	P18825	16	Alpha-2C adrenergic receptor 	ADRA2C	152
+14	P11229	15	Muscarinic acetylcholine receptor M1	CHRM1	1128
+15	P21728	14	Dopamine D1 receptor	DRD1	1812
+16	P08172	14	Muscarinic acetylcholine receptor M2	CHRM2	1129
+17	P20309	13	Muscarinic acetylcholine receptor M3	CHRM3	1131
+18	P08173	13	Muscarinic acetylcholine receptor M4	CHRM4	1132
+19	P08912	13	Muscarinic acetylcholine receptor M5	CHRM5	1133
+20	P50406	12	5-hydroxytryptamine receptor 6 	HTR6	3362
+21	P34969	12	5-hydroxytryptamine receptor 7 	HTR7	3363
+22	P31645	11	Sodium-dependent serotonin transporter	SLC6A4	6532
+23	P21918	10	Dopamine D5 receptor	DRD5	1816
+24	P10275	10	Androgen receptor	AR	367
+25	Q01959	10	Sodium-dependent dopamine transporter	SLC6A3	6531
+26	P23975	9	Sodium-dependent noradrenaline transporter	SLC6A2	6530
+27	Q12809	8	Potassium voltage-gated channel subfamily H member 2	KCNH2	3757
+28	P08588	8	Beta-1 adrenergic receptor 	ADRB1	153
+29	P07550	8	Beta-2 adrenergic receptor 	ADRB2	154
+30	P28222	8	5-hydroxytryptamine receptor 1B 	HTR1B	3351
+31	P46098	7	5-hydroxytryptamine receptor 3A	HTR3A	3359
+32	Q99720	7	Sigma non-opioid intracellular receptor 1 	SIGMAR1	10280
+33	P03372	7	Estrogen receptor	ESR1	2099
+34	P07947	7	Tyrosine-protein kinase Yes	YES1	7525
+35	P28221	6	5-hydroxytryptamine receptor 1D 	HTR1D	3352
+36	O75469	6	Nuclear receptor subfamily 1 group I member 2	NR1I2	8856
+37	P09769	6	Tyrosine-protein kinase Fgr	FGR	2268
+38	P10721	6	Mast/stem cell growth factor receptor Kit	KIT	3815
+39	P06239	6	Tyrosine-protein kinase Lck	LCK	3932
+40	P09619	6	Platelet-derived growth factor receptor beta	PDGFRB	5159
+41	P29597	6	Non-receptor tyrosine-protein kinase TYK2	TYK2	7297
+42	P23219	6	Prostaglandin G/H synthase 1	PTGS1	5742
+43	P35354	6	Prostaglandin G/H synthase 2	PTGS2	5743
+44	P21917	6	D(4) dopamine receptor	DRD4	1815
+45	P10635	6	Cytochrome P450 2D6 	CYP2D6	1565
+46	P28472	6	Gamma-aminobutyric acid receptor subunit beta-3	GABRB3	2562
+47	P41143	5	Delta-type opioid receptor 	OPRD1	4985
+48	P00519	5	Tyrosine-protein kinase ABL1	ABL1	25
+49	P00533	5	Epidermal growth factor receptor	EGFR	1956
+50	P36888	5	Receptor-type tyrosine-protein kinase FLT3	FLT3	2322
+51	P23458	5	Tyrosine-protein kinase JAK1	JAK1	3716
+52	O60674	5	Tyrosine-protein kinase JAK2	JAK2	3717
+53	P52333	5	Tyrosine-protein kinase JAK3	JAK3	3718
+54	Q13882	5	Protein-tyrosine kinase 6	PTK6	5753
+55	P07949	5	Proto-oncogene tyrosine-protein kinase receptor Ret	RET	5979
+56	P12931	5	Proto-oncogene tyrosine-protein kinase Src	SRC	6714
+57	Q07912	5	Activated CDC42 kinase 1	TNK2	10188
+58	P0DP23	5	Calmodulin	CALM1	801; 805; 808
+59	P27338	5	Amine oxidase [flavin-containing] B	MAOB	4129
+60	P14867	5	Gamma-aminobutyric acid receptor subunit alpha-1	GABRA1	2554
+61	P18505	5	Gamma-aminobutyric acid receptor subunit beta-1	GABRB1	2560
+62	P47870	5	Gamma-aminobutyric acid receptor subunit beta-2	GABRB2	2561
+63	O14764	5	Gamma-aminobutyric acid receptor subunit delta	GABRD	2563
+64	P78334	5	Gamma-aminobutyric acid receptor subunit epsilon	GABRE	2564
+65	O00591	5	Gamma-aminobutyric acid receptor subunit pi	GABRP	2568
+66	Q8TCU5	5	"Glutamate receptor ionotropic, NMDA 3A"	GRIN3A	116443
+67	O00555	5	Voltage-dependent P/Q-type calcium channel subunit alpha-1A	CACNA1A	773
+68	O95264	5	5-hydroxytryptamine receptor 3B 	HTR3B	9177
+69	P11511	5	Aromatase 	CYP19A1	1588
+70	Q13936	4	Voltage-dependent L-type calcium channel subunit alpha-1C	CACNA1C	775
+71	Q01668	4	Voltage-dependent L-type calcium channel subunit alpha-1D	CACNA1D	776
+72	O60840	4	Voltage-dependent L-type calcium channel subunit alpha-1F	CACNA1F	778
+73	Q13698	4	Voltage-dependent L-type calcium channel subunit alpha-1S	CACNA1S	779
+74	Q08289	4	Voltage-dependent L-type calcium channel subunit beta-2	CACNB2	783
+75	P25021	4	Histamine H2 receptor 	HRH2	3274
+76	Q9H3N8	4	Histamine H4 receptor 	HRH4	59340
+77	P28566	4	5-hydroxytryptamine receptor 1E 	HTR1E	3354
+78	P30939	4	5-hydroxytryptamine receptor 1F 	HTR1F	3355
+79	P35372	4	Mu-type opioid receptor 	OPRM1	4988
+80	Q92731	4	Estrogen receptor beta	ESR2	2100
+81	P04278	4	Sex hormone-binding globulin	SHBG	6462
+82	P42685	4	Tyrosine-protein kinase FRK	FRK	2444
+83	P06241	4	Tyrosine-protein kinase Fyn	FYN	2534
+84	P08631	4	Tyrosine-protein kinase HCK	HCK	3055
+85	Q9Y4K4	4	Mitogen-activated protein kinase kinase kinase kinase 5	MAP4K5	11183
+86	P42345	4	Serine/threonine-protein kinase mTOR	MTOR	2475
+87	O60285	4	NUAK family SNF1-like kinase 1	NUAK1	9891
+88	O00329	4	"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit delta isoform"	PIK3CD	5293
+89	P57059	4	Serine/threonine-protein kinase SIK1	SIK1	102724428; 150094
+90	Q9H0K1	4	Serine/threonine-protein kinase SIK2	SIK2	23235
+91	Q9H3Y6	4	Tyrosine-protein kinase Srms	SRMS	6725
+92	Q9UHD2	4	Serine/threonine-protein kinase TBK1	TBK1	29110
+93	P47869	4	Gamma-aminobutyric acid receptor subunit alpha-2	GABRA2	2555
+94	P34903	4	Gamma-aminobutyric acid receptor subunit alpha-3	GABRA3	2556
+95	P48169	4	Gamma-aminobutyric acid receptor subunit alpha-4	GABRA4	2557
+96	P31644	4	Gamma-aminobutyric acid receptor subunit alpha-5	GABRA5	2558
+97	Q16445	4	Gamma-aminobutyric acid receptor subunit alpha-6	GABRA6	2559
+98	Q8N1C3	4	Gamma-aminobutyric acid receptor subunit gamma-1	GABRG1	2565
+99	P18507	4	Gamma-aminobutyric acid receptor subunit gamma-2	GABRG2	2566
+100	Q99928	4	Gamma-aminobutyric acid receptor subunit gamma-3	GABRG3	2567
+101	Q9UN88	4	Gamma-aminobutyric acid receptor subunit theta	GABRQ	55879
+102	P42338	4	"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit beta isoform "	PIK3CB	5291
+103	Q12879	4	"Glutamate receptor ionotropic, NMDA 2A"	GRIN2A	2903
+104	Q13224	4	"Glutamate receptor ionotropic, NMDA 2B"	GRIN2B	2904
+105	P05177	4	Cytochrome P450 1A2 	CYP1A2	1544
+106	P32297	4	Neuronal acetylcholine receptor subunit alpha-3	CHRNA3	1136
+107	P43681	4	Neuronal acetylcholine receptor subunit alpha-4	CHRNA4	1137
+108	P04150	4	Glucocorticoid receptor	NR3C1	2908
+109	P06401	4	Progesterone receptor	PGR	5241
+110	P08684	4	Cytochrome P450 3A4	CYP3A4	1576
+111	P45984	3	Mitogen-activated protein kinase 9 	MAPK9	5601
+112	P35869	3	Aryl hydrocarbon receptor	AHR	196
+113	Q02641	3	Voltage-dependent L-type calcium channel subunit beta-1	CACNB1	782
+114	P54284	3	Voltage-dependent L-type calcium channel subunit beta-3	CACNB3	784
+115	O00305	3	Voltage-dependent L-type calcium channel subunit beta-4	CACNB4	785
+116	P08235	3	Mineralocorticoid receptor	NR3C2	4306
+117	P29274	3	Adenosine receptor A2a	ADORA2A	135
+118	P29275	3	Adenosine receptor A2b	ADORA2B	136
+119	P13945	3	Beta-3 adrenergic receptor 	ADRB3	155
+120	P41145	3	Kappa-type opioid receptor 	OPRK1	4986
+121	P02766	3	Transthyretin 	TTR	7276
+122	P42684	3	Abelson tyrosine-protein kinase 2	ABL2	27
+123	Q96GD4	3	Aurora kinase B	AURKB	9212
+124	Q9UQB9	3	Aurora kinase C	AURKC	6795
+125	P30530	3	Tyrosine-protein kinase receptor UFO	AXL	558
+126	P51451	3	Tyrosine-protein kinase Blk	BLK	640
+127	P51813	3	Cytoplasmic tyrosine-protein kinase BMX	BMX	660
+128	P15056	3	Serine/threonine-protein kinase B-raf	BRAF	673
+129	Q06187	3	Tyrosine-protein kinase BTK	BTK	695
+130	P06493	3	Cyclin-dependent kinase 1	CDK1	983
+131	P41240	3	Tyrosine-protein kinase CSK	CSK	1445
+132	P19784	3	Casein kinase II subunit alpha'	CSNK2A2	1459
+133	P53355	3	Death-associated protein kinase 1	DAPK1	1612
+134	O43293	3	Death-associated protein kinase 3	DAPK3	1613
+135	P19525	3	"Interferon-induced, double-stranded RNA-activated protein kinase"	EIF2AK2	5610
+136	P29317	3	Ephrin type-A receptor 2	EPHA2	1969
+137	Q15375	3	Ephrin type-A receptor 7	EPHA7	2045
+138	P54762	3	Ephrin type-B receptor 1	EPHB1	2047
+139	P54760	3	Ephrin type-B receptor 4	EPHB4	2050
+140	O15197	3	Ephrin type-B receptor 6	EPHB6	2051
+141	Q15303	3	Receptor tyrosine-protein kinase erbB-4	ERBB4	2066
+142	P11362	3	Fibroblast growth factor receptor 1	FGFR1	2260
+143	O14976	3	Cyclin-G-associated kinase	GAK	2580
+144	O14920	3	Inhibitor of nuclear factor kappa-B kinase subunit beta	IKBKB	3551
+145	Q08881	3	Tyrosine-protein kinase ITK/TSK	ITK	3702
+146	P35968	3	Vascular endothelial growth factor receptor 2	KDR	3791
+147	P53667	3	LIM domain kinase 1	LIMK1	3984
+148	P07948	3	Tyrosine-protein kinase Lyn	LYN	4067
+149	Q13163	3	Dual specificity mitogen-activated protein kinase kinase 5	MAP2K5	5607
+150	Q16584	3	Mitogen-activated protein kinase kinase kinase 11	MAP3K11	4296
+151	Q56UN5	3	Mitogen-activated protein kinase kinase kinase 19	MAP3K19	80122
+152	O95819	3	Mitogen-activated protein kinase kinase kinase kinase 4	MAP4K4	9448
+153	P27448	3	MAP/microtubule affinity-regulating kinase 3	MARK3	4140
+154	P42679	3	Megakaryocyte-associated tyrosine-protein kinase	MATK	4145
+155	Q9BUB5	3	MAP kinase-interacting serine/threonine-protein kinase 1	MKNK1	8569
+156	Q8NG66	3	Serine/threonine-protein kinase Nek11	NEK11	79858
+157	Q16288	3	NT-3 growth factor receptor	NTRK3	4916
+158	O76074	3	"cGMP-specific 3',5'-cyclic phosphodiesterase"	PDE5A	8654
+159	P16234	3	Platelet-derived growth factor receptor alpha	PDGFRA	5156
+160	O00750	3	Phosphatidylinositol 4-phosphate 3-kinase C2 domain-containing subunit beta	PIK3C2B	5287
+161	O75747	3	Phosphatidylinositol 4-phosphate 3-kinase C2 domain-containing subunit gamma	PIK3C2G	5288
+162	P48736	3	"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform"	PIK3CG	5294
+163	P04049	3	RAF proto-oncogene serine/threonine-protein kinase	RAF1	5894
+164	O43353	3	Receptor-interacting serine/threonine-protein kinase 2	RIPK2	8767
+165	Q9Y2K2	3	Serine/threonine-protein kinase SIK3	SIK3	23387
+166	O94804	3	Serine/threonine-protein kinase 10	STK10	6793
+167	P42680	3	Tyrosine-protein kinase Tec	TEC	7006
+168	P42681	3	Tyrosine-protein kinase TXK	TXK	7294
+169	Q9NYL2	3	Mitogen-activated protein kinase kinase kinase MLT	ZAK	51776
+170	P21397	3	Amine oxidase [flavin-containing] A	MAOA	4128
+171	O60341	3	Lysine-specific histone demethylase 1A 	KDM1A	23028
+172	Q8NB78	3	Lysine-specific histone demethylase 1B 	KDM1B	221656
+173	Q14524	3	Sodium channel protein type 5 subunit alpha	SCN5A	6331
+174	Q05586	3	"Glutamate receptor ionotropic, NMDA 1"	GRIN1	2902
+175	Q14957	3	"Glutamate receptor ionotropic, NMDA 2C"	GRIN2C	2905
+176	O15399	3	"Glutamate receptor ionotropic, NMDA 2D"	GRIN2D	2906
+177	O60391	3	"Glutamate receptor ionotropic, NMDA 3B"	GRIN3B	116444
+178	P02708	3	Acetylcholine receptor subunit alpha	CHRNA1	1134
+179	Q9GZZ6	3	Neuronal acetylcholine receptor subunit alpha-10 	CHRNA10	57053
+180	Q15822	3	Neuronal acetylcholine receptor subunit alpha-2	CHRNA2	1135
+181	P30532	3	Neuronal acetylcholine receptor subunit alpha-5	CHRNA5	1138
+182	Q15825	3	Neuronal acetylcholine receptor subunit alpha-6	CHRNA6	8973
+183	P36544	3	Neuronal acetylcholine receptor subunit alpha-7	CHRNA7	1139
+184	Q9UGM1	3	Neuronal acetylcholine receptor subunit alpha-9 	CHRNA9	55584
+185	P11230	3	Acetylcholine receptor subunit beta	CHRNB1	1140
+186	P17787	3	Neuronal acetylcholine receptor subunit beta-2	CHRNB2	1141
+187	Q05901	3	Neuronal acetylcholine receptor subunit beta-3	CHRNB3	1142
+188	P30926	3	Neuronal acetylcholine receptor subunit beta-4	CHRNB4	1143
+189	Q07001	3	Acetylcholine receptor subunit delta	CHRND	1144
+190	Q04844	3	Acetylcholine receptor subunit epsilon	CHRNE	1145
+191	P07510	3	Acetylcholine receptor subunit gamma	CHRNG	1146
+192	Q8WXA8	3	5-hydroxytryptamine receptor 3C 	HTR3C	170572
+193	Q70Z44	3	5-hydroxytryptamine receptor 3D 	HTR3D	200909
+194	A5X5Y0	3	5-hydroxytryptamine receptor 3E 	HTR3E	285242
+195	Q00975	3	Voltage-dependent N-type calcium channel subunit alpha-1B	CACNA1B	774
+196	O43497	3	Voltage-dependent T-type calcium channel subunit alpha-1G	CACNA1G	8913
+197	O95180	3	Voltage-dependent T-type calcium channel subunit alpha-1H	CACNA1H	8912
+198	Q9P0X4	3	Voltage-dependent T-type calcium channel subunit alpha-1I	CACNA1I	8911
+199	P19099	3	"Cytochrome P450 11B2, mitochondrial"	CYP11B2	1585
+200	P33261	3	Cytochrome P450 2C19	CYP2C19	1557
+201	Q16696	3	Cytochrome P450 2A13 	CYP2A13	1553
+202	P11509	3	Cytochrome P450 2A6 	CYP2A6	1548
+203	P11712	3	Cytochrome P450 2C9 	CYP2C9	1559
+204	P45983	2	Mitogen-activated protein kinase 8 	MAPK8	5599
+205	P30542	2	Adenosine receptor A1	ADORA1	134
+206	P30968	2	Gonadotropin-releasing hormone receptor 	GNRHR	2798
+207	Q96P88	2	Putative gonadotropin-releasing hormone II receptor 	GNRHR2	NA
+208	Q9Y5N1	2	Histamine H3 receptor 	HRH3	11255
+209	P47898	2	5-hydroxytryptamine receptor 5A 	HTR5A	3361
+210	Q92633	2	Lysophosphatidic acid receptor 1 	LPAR1	1902
+211	Q9UBY5	2	Lysophosphatidic acid receptor 3 	LPAR3	23566
+212	P34995	2	Prostaglandin E2 receptor EP1 subtype 	PTGER1	5731
+213	P43116	2	Prostaglandin E2 receptor EP2 subtype 	PTGER2	5732
+214	P43115	2	Prostaglandin E2 receptor EP3 subtype 	PTGER3	5733
+215	P35408	2	Prostaglandin E2 receptor EP4 subtype 	PTGER4	5734
+216	P43119	2	Prostacyclin receptor 	PTGIR	5739
+217	Q96RJ0	2	Trace amine-associated receptor 1 	TAAR1	134864
+218	P0DMS9	2	Transmembrane domain-containing protein TMIGD3	TMIGD3	57413
+219	P11474	2	Steroid hormone receptor ERR1	ESRRA	2101
+220	O95718	2	Steroid hormone receptor ERR2	ESRRB	2103
+221	P62508	2	Estrogen-related receptor gamma	ESRRG	2104
+222	Q15596	2	Nuclear receptor coactivator 2	NCOA2	10499
+223	Q2M2I8	2	AP2-associated protein kinase 1	AAK1	22848
+224	Q04771	2	Activin receptor type-1	ACVR1	90
+225	Q9UM73	2	ALK tyrosine kinase receptor	ALK	238
+226	O14965	2	Aurora kinase A	AURKA	6790
+227	Q9NSY1	2	BMP-2-inducible protein kinase	BMP2K	55589
+228	O00238	2	Bone morphogenetic protein receptor type-1B	BMPR1B	658
+229	Q9UQM7	2	Calcium/calmodulin-dependent protein kinase type II subunit alpha	CAMK2A	815
+230	Q96RR4	2	Calcium/calmodulin-dependent protein kinase kinase 2	CAMKK2	10645
+231	P11802	2	Cyclin-dependent kinase 4	CDK4	1019
+232	O14757	2	Serine/threonine-protein kinase Chk1	CHEK1	1111
+233	O14578	2	Citron Rho-interacting kinase	CIT	11113
+234	Q8NI60	2	"Atypical kinase COQ8A, mitochondrial"	COQ8A	56997
+235	Q96D53	2	"Atypical kinase COQ8B, mitochondrial"	COQ8B	79934
+236	P07333	2	Macrophage colony-stimulating factor 1 receptor	CSF1R	1436
+237	P68400	2	Casein kinase II subunit alpha	CSNK2A1	1457
+238	Q9UIK4	2	Death-associated protein kinase 2	DAPK2	23604
+239	O15075	2	Serine/threonine-protein kinase DCLK1	DCLK1	9201
+240	Q9C098	2	Serine/threonine-protein kinase DCLK3	DCLK3	85443
+241	Q08345	2	Epithelial discoidin domain-containing receptor 1	DDR1	780
+242	Q16832	2	Discoidin domain-containing receptor 2	DDR2	4921
+243	Q9Y463	2	Dual specificity tyrosine-phosphorylation-regulated kinase 1B	DYRK1B	9149
+244	Q9P2K8	2	eIF-2-alpha kinase GCN2	EIF2AK4	440275
+245	P21709	2	Ephrin type-A receptor 1	EPHA1	2041
+246	P29320	2	Ephrin type-A receptor 3	EPHA3	2042
+247	P54764	2	Ephrin type-A receptor 4	EPHA4	2043
+248	P54756	2	Ephrin type-A receptor 5	EPHA5	2044
+249	Q9UF33	2	Ephrin type-A receptor 6	EPHA6	285220
+250	P29322	2	Ephrin type-A receptor 8	EPHA8	2046
+251	P29323	2	Ephrin type-B receptor 2	EPHB2	2048
+252	P04626	2	Receptor tyrosine-protein kinase erbB-2	ERBB2	2064
+253	P22607	2	Fibroblast growth factor receptor 3	FGFR3	2261
+254	P17948	2	Vascular endothelial growth factor receptor 1	FLT1	2321
+255	P35916	2	Vascular endothelial growth factor receptor 3	FLT4	2324
+256	P49840	2	Glycogen synthase kinase-3 alpha	GSK3A	2931
+257	P49841	2	Glycogen synthase kinase-3 beta	GSK3B	2932
+258	Q9H2X6	2	Homeodomain-interacting protein kinase 2	HIPK2	28996
+259	Q14164	2	Inhibitor of nuclear factor kappa-B kinase subunit epsilon	IKBKE	9641
+260	P06213	2	Insulin receptor	INSR	3643
+261	P51617	2	Interleukin-1 receptor-associated kinase 1	IRAK1	3654
+262	Q9Y616	2	Interleukin-1 receptor-associated kinase 3	IRAK3	11213
+263	P53671	2	LIM domain kinase 2	LIMK2	3985
+264	P29376	2	Leukocyte tyrosine kinase receptor	LTK	4058
+265	Q02779	2	Mitogen-activated protein kinase kinase kinase 10	MAP3K10	4294
+266	Q9Y2U5	2	Mitogen-activated protein kinase kinase kinase 2	MAP3K2	10746
+267	Q99759	2	Mitogen-activated protein kinase kinase kinase 3	MAP3K3	4215
+268	P80192	2	Mitogen-activated protein kinase kinase kinase 9	MAP3K9	4293
+269	Q12851	2	Mitogen-activated protein kinase kinase kinase kinase 2	MAP4K2	5871
+270	P53779	2	Mitogen-activated protein kinase 10	MAPK10	5602
+271	Q16539	2	Mitogen-activated protein kinase 14	MAPK14	1432
+272	Q13164	2	Mitogen-activated protein kinase 7	MAPK7	5598
+273	Q9P0L2	2	Serine/threonine-protein kinase MARK1	MARK1	4139
+274	Q7KZI7	2	Serine/threonine-protein kinase MARK2	MARK2	2011
+275	Q96L34	2	MAP/microtubule affinity-regulating kinase 4	MARK4	57787
+276	P08581	2	Hepatocyte growth factor receptor	MET	4233
+277	Q8N4C8	2	Misshapen-like kinase 1	MINK1	50488
+278	Q9HBH9	2	MAP kinase-interacting serine/threonine-protein kinase 2	MKNK2	2872
+279	O15146	2	"Muscle, skeletal receptor tyrosine-protein kinase"	MUSK	4593
+280	Q86YV6	2	Myosin light chain kinase family member 4	MYLK4	340156
+281	Q8TD19	2	Serine/threonine-protein kinase Nek9	NEK9	91754
+282	Q16620	2	BDNF/NT-3 growth factors receptor	NTRK2	4915
+283	Q9H093	2	NUAK family SNF1-like kinase 2	NUAK2	81788
+284	Q86V86	2	Serine/threonine-protein kinase pim-3	PIM3	415116
+285	P78356	2	Phosphatidylinositol 5-phosphate 4-kinase type-2 beta	PIP4K2B	8396
+286	Q99640	2	Membrane-associated tyrosine- and threonine-specific cdc2-inhibitory kinase	PKMYT1	9088
+287	Q16512	2	Serine/threonine-protein kinase N1	PKN1	5585
+288	Q16513	2	Serine/threonine-protein kinase N2	PKN2	5586
+289	P53350	2	Serine/threonine-protein kinase PLK1	PLK1	5347
+290	O00444	2	Serine/threonine-protein kinase PLK4	PLK4	10733
+291	Q13131	2	5'-AMP-activated protein kinase catalytic subunit alpha-1	PRKAA1	5562
+292	P54646	2	5'-AMP-activated protein kinase catalytic subunit alpha-2	PRKAA2	5563
+293	Q9Y478	2	5'-AMP-activated protein kinase subunit beta-1	PRKAB1	5564
+294	O43741	2	5'-AMP-activated protein kinase subunit beta-2	PRKAB2	5565
+295	P17612	2	cAMP-dependent protein kinase catalytic subunit alpha	PRKACA	5566
+296	P54619	2	5'-AMP-activated protein kinase subunit gamma-1	PRKAG1	5571
+297	Q02156	2	Protein kinase C epsilon type	PRKCE	5581
+298	Q05397	2	Focal adhesion kinase 1	PTK2	5747
+299	Q14289	2	Protein-tyrosine kinase 2-beta	PTK2B	2185
+300	Q9BRS2	2	Serine/threonine-protein kinase RIO1	RIOK1	83732
+301	O14730	2	Serine/threonine-protein kinase RIO3	RIOK3	8780
+302	O75116	2	Rho-associated protein kinase 2	ROCK2	9475
+303	Q15418	2	Ribosomal protein S6 kinase alpha-1	RPS6KA1	6195
+304	Q9UK32	2	Ribosomal protein S6 kinase alpha-6	RPS6KA6	27330
+305	Q9H2G2	2	STE20-like serine/threonine-protein kinase	SLK	9748
+306	Q9NRH2	2	SNF-related serine/threonine-protein kinase	SNRK	54861
+307	O75716	2	Serine/threonine-protein kinase 16	STK16	8576
+308	O94768	2	Serine/threonine-protein kinase 17B	STK17B	9262
+309	Q9BYT3	2	Serine/threonine-protein kinase 33	STK33	65975
+310	Q9NRP7	2	Serine/threonine-protein kinase 36	STK36	27148
+311	P43405	2	Tyrosine-protein kinase SYK	SYK	6850
+312	Q15569	2	Dual specificity testis-specific protein kinase 1	TESK1	7016
+313	P36897	2	TGF-beta receptor type-1	TGFBR1	7046
+314	O75385	2	Serine/threonine-protein kinase ULK1	ULK1	8408
+315	Q8IYT8	2	Serine/threonine-protein kinase ULK2	ULK2	9706
+316	Q6PHR2	2	Serine/threonine-protein kinase ULK3	ULK3	25989
+317	O60885	2	Bromodomain-containing protein 4 	BRD4	23476
+318	P04035	2	3-hydroxy-3-methylglutaryl-coenzyme A reductase	HMGCR	3156
+319	P20648	2	Potassium-transporting ATPase alpha chain 1 	ATP4A	495
+320	P00915	2	Carbonic anhydrase 1	CA1	759
+321	P00918	2	Carbonic anhydrase 2	CA2	760
+322	P07451	2	Carbonic anhydrase 3	CA3	761
+323	P35498	2	Sodium channel protein type 1 subunit alpha	SCN1A	6323
+324	O43570	2	Carbonic anhydrase 12 	CA12	771
+325	Q8N1Q1	2	Carbonic anhydrase 13 	CA13	377677
+326	P23280	2	Carbonic anhydrase 6 	CA6	765
+327	P43166	2	Carbonic anhydrase 7 	CA7	766
+328	Q16790	2	Carbonic anhydrase 9 	CA9	768
+329	P80404	2	"4-aminobutyrate aminotransferase, mitochondrial"	ABAT	18
+330	Q16853	2	Membrane primary amine oxidase	AOC3	8639
+331	P63316	2	"Troponin C, slow skeletal and cardiac muscles"	TNNC1	7134
+332	P12004	2	Proliferating cell nuclear antigen 	PCNA	5111
+333	P22303	2	Acetylcholinesterase 	ACHE	43
+334	Q9Y5Y9	2	Sodium channel protein type 10 subunit alpha	SCN10A	6336
+335	Q9UI33	2	Sodium channel protein type 11 subunit alpha	SCN11A	11280
+336	Q9NY46	2	Sodium channel protein type 3 subunit alpha	SCN3A	6328
+337	Q9UQD0	2	Sodium channel protein type 8 subunit alpha	SCN8A	6334
+338	Q15858	2	Sodium channel protein type 9 subunit alpha	SCN9A	6335
+339	P31749	2	RAC-alpha serine/threonine-protein kinase 	AKT1	207
+340	P42336	2	"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform "	PIK3CA	5290
+341	P27986	2	Phosphatidylinositol 3-kinase regulatory subunit alpha 	PIK3R1	5295
+342	P30531	2	Sodium- and chloride-dependent GABA transporter 1 	SLC6A1	6529
+343	P48066	2	Sodium- and chloride-dependent GABA transporter 3 	SLC6A11	6538
+344	P48065	2	Sodium- and chloride-dependent betaine transporter 	SLC6A12	6539
+345	Q9NSD5	2	Sodium- and chloride-dependent GABA transporter 2 	SLC6A13	6540
+346	Q9UN76	2	Sodium- and chloride-dependent neutral and basic amino acid transporter B	SLC6A14	11254
+347	Q9H2J7	2	Sodium-dependent neutral amino acid transporter B	SLC6A15	55117
+348	Q9GZN6	2	Orphan sodium- and chloride-dependent neurotransmitter transporter NTT5 	SLC6A16	28968
+349	Q9H1V8	2	Sodium-dependent neutral amino acid transporter SLC6A17 	SLC6A17	388662
+350	Q96N87	2	Sodium-dependent neutral amino acid transporter B	SLC6A18	348932
+351	Q695T7	2	Sodium-dependent neutral amino acid transporter B	SLC6A19	340024
+352	Q9NP91	2	Sodium- and chloride-dependent transporter XTRP3 	SLC6A20	54716
+353	Q9Y345	2	Sodium- and chloride-dependent glycine transporter 2 	SLC6A5	9152
+354	P31641	2	Sodium- and chloride-dependent taurine transporter 	SLC6A6	6533
+355	Q99884	2	Sodium-dependent proline transporter 	SLC6A7	6534
+356	P48029	2	Sodium- and chloride-dependent creatine transporter 1 	SLC6A8	6535
+357	P48067	2	Sodium- and chloride-dependent glycine transporter 1 	SLC6A9	6536
+358	Q14994	2	Nuclear receptor subfamily 1 group I member 3	NR1I3	9970
+359	Q13639	2	5-hydroxytryptamine receptor 4	HTR4	3360
+360	P54289	2	Voltage-dependent calcium channel subunit alpha-2/delta-1	CACNA2D1	781
+361	Q9NY47	2	Voltage-dependent calcium channel subunit alpha-2/delta-2	CACNA2D2	9254
+362	P05108	2	"Cholesterol side-chain cleavage enzyme, mitochondrial "	CYP11A1	1583
+363	P15538	2	"Cytochrome P450 11B1, mitochondrial "	CYP11B1	1584
+364	P05093	2	"Steroid 17-alpha-hydroxylase/17,20 lyase "	CYP17A1	1586
+365	P04798	2	Cytochrome P450 1A1 	CYP1A1	1543
+366	Q16678	2	Cytochrome P450 1B1 	CYP1B1	1545
+367	Q6UW02	2	Cytochrome P450 20A1 	CYP20A1	57404
+368	P08686	2	Steroid 21-hydroxylase 	CYP21A2	1589
+369	Q07973	2	"1,25-dihydroxyvitamin D"	CYP24A1	1591
+370	O43174	2	Cytochrome P450 26A1 	CYP26A1	1592
+371	Q9NR63	2	Cytochrome P450 26B1 	CYP26B1	56603
+372	Q6V0L0	2	Cytochrome P450 26C1 	CYP26C1	340665
+373	Q02318	2	"Sterol 26-hydroxylase, mitochondrial "	CYP27A1	1593
+374	O15528	2	"25-hydroxyvitamin D-1 alpha hydroxylase, mitochondrial "	CYP27B1	1594
+375	Q4G0S4	2	Cytochrome P450 27C1 	CYP27C1	339761
+376	P20853	2	Cytochrome P450 2A7 	CYP2A7	1549
+377	P20813	2	Cytochrome P450 2B6	CYP2B6	1555
+378	P33260	2	Cytochrome P450 2C18 	CYP2C18	1562
+379	P10632	2	Cytochrome P450 2C8	CYP2C8	1558
+380	P05181	2	Cytochrome P450 2E1 	CYP2E1	1571
+381	P24903	2	Cytochrome P450 2F1 	CYP2F1	1572
+382	P51589	2	Cytochrome P450 2J2 	CYP2J2	1573
+383	Q6VVX0	2	Vitamin D 25-hydroxylase 	CYP2R1	120227
+384	Q96SQ9	2	Cytochrome P450 2S1 	CYP2S1	29785
+385	Q7Z449	2	Cytochrome P450 2U1 	CYP2U1	113612
+386	Q8TAV3	2	Cytochrome P450 2W1 	CYP2W1	54905
+387	Q9NYL5	2	24-hydroxycholesterol 7-alpha-hydroxylase 	CYP39A1	51302
+388	Q9HB55	2	Cytochrome P450 3A43 	CYP3A43	64816
+389	P20815	2	Cytochrome P450 3A5	CYP3A5	1577
+390	P24462	2	Cytochrome P450 3A7	CYP3A7	100861540
+391	Q9Y6A2	2	Cholesterol 24-hydroxylase 	CYP46A1	10858
+392	Q02928	2	Cytochrome P450 4A11 	CYP4A11	1579
+393	Q5TCH4	2	Cytochrome P450 4A22 	CYP4A22	284541
+394	P13584	2	Cytochrome P450 4B1 	CYP4B1	1580
+395	Q9HBI6	2	Phylloquinone omega-hydroxylase CYP4F11 	CYP4F11	57834
+396	Q9HCS2	2	Cytochrome P450 4F12 	CYP4F12	66002
+397	P78329	2	Phylloquinone omega-hydroxylase CYP4F2 	CYP4F2	8529
+398	Q6NT55	2	Cytochrome P450 4F22 	CYP4F22	126410
+399	Q08477	2	Docosahexaenoic acid omega-hydroxylase CYP4F3 	CYP4F3	4051
+400	Q6ZWL3	2	Cytochrome P450 4V2 	CYP4V2	285440
+401	Q8N118	2	Cytochrome P450 4X1 	CYP4X1	260293
+402	Q86W10	2	Cytochrome P450 4Z1 	CYP4Z1	199974
+403	Q16850	2	Lanosterol 14-alpha demethylase 	CYP51A1	1595
+404	P22680	2	Cholesterol 7-alpha-monooxygenase 	CYP7A1	1581
+405	O75881	2	25-hydroxycholesterol 7-alpha-hydroxylase 	CYP7B1	9420
+406	Q9UNU6	2	7-alpha-hydroxycholest-4-en-3-one 12-alpha-hydroxylase 	CYP8B1	1582
+407	P14061	2	Estradiol 17-beta-dehydrogenase 1 	HSD17B1	3292
+408	Q16647	2	Prostacyclin synthase 	PTGIS	5740
+409	P19793	2	Retinoic acid receptor RXR-alpha 	RXRA	6256
+410	P04156	2	Major prion protein 	PRNP	5621
+411	P50613	2	Cyclin-dependent kinase 7 	CDK7	1022
+412	P07900	2	Heat shock protein HSP 90-alpha 	HSP90AA1	3320
+413	P08238	2	Heat shock protein HSP 90-beta 	HSP90AB1	3326
+414	P14625	2	Endoplasmin 	HSP90B1	7184
+415	Q12931	2	"Heat shock protein 75 kDa, mitochondrial "	TRAP1	10131
+416	P24941	2	Cyclin-dependent kinase 2	CDK2	1017
+417	Q14432	2	"cGMP-inhibited 3',5'-cyclic phosphodiesterase A"	PDE3A	5139
+418	Q9UBK8	2	Methionine synthase reductase 	MTRR	4552
+419	Q9UHB4	2	NADPH-dependent diflavin oxidoreductase 1 	NDOR1	27158
+420	P29475	2	"Nitric oxide synthase, brain "	NOS1	4842
+421	P35228	2	"Nitric oxide synthase, inducible "	NOS2	4843
+422	P29474	2	"Nitric oxide synthase, endothelial "	NOS3	4846
+423	P16435	2	NADPH--cytochrome P450 reductase 	POR	5447
+424	Q9NV66	2	S-adenosyl-L-methionine-dependent tRNA 4-demethylwyosine synthase 	TYW1	55253
+425	Q9Y6L6	1	Solute carrier organic anion transporter family member 1B1	SLCO1B1	10599
+426	Q9NPD5	1	Solute carrier organic anion transporter family member 1B3	SLCO1B3	28234
+427	P15121	1	Aldose reductase 	AKR1B1	231
+428	O00590	1	Atypical chemokine receptor 2 	ACKR2	1238
+429	P25106	1	Atypical chemokine receptor 3 	ACKR3	57007
+430	P30556	1	Type-1 angiotensin II receptor 	AGTR1	185
+431	P50052	1	Type-2 angiotensin II receptor 	AGTR2	186
+432	P35414	1	Apelin receptor 	APLNR	187
+433	P37288	1	Vasopressin V1a receptor 	AVPR1A	552
+434	P47901	1	Vasopressin V1b receptor 	AVPR1B	553
+435	P30518	1	Vasopressin V2 receptor 	AVPR2	554
+436	P46663	1	B1 bradykinin receptor 	BDKRB1	623
+437	P32247	1	Bombesin receptor subtype-3 	BRS3	680
+438	P32238	1	Cholecystokinin receptor type A 	CCKAR	886
+439	P32239	1	Gastrin/cholecystokinin type B receptor 	CCKBR	887
+440	P32246	1	C-C chemokine receptor type 1 	CCR1	1230
+441	P41597	1	C-C chemokine receptor type 2 	CCR2	729230
+442	P51677	1	C-C chemokine receptor type 3 	CCR3	1232
+443	P51679	1	C-C chemokine receptor type 4 	CCR4	1233
+444	P51681	1	C-C chemokine receptor type 5 	CCR5	1234
+445	P51686	1	C-C chemokine receptor type 9 	CCR9	10803
+446	P21554	1	Cannabinoid receptor 1 	CNR1	1268
+447	P34972	1	Cannabinoid receptor 2 	CNR2	1269
+448	P61073	1	C-X-C chemokine receptor type 4 	CXCR4	7852
+449	O00574	1	C-X-C chemokine receptor type 6 	CXCR6	10663
+450	P25101	1	Endothelin-1 receptor 	EDNRA	1909
+451	P24530	1	Endothelin receptor type B 	EDNRB	1910
+452	Q5NUL3	1	Free fatty acid receptor 4 	FFAR4	338557
+453	P47211	1	Galanin receptor type 1 	GALR1	2587
+454	O43603	1	Galanin receptor type 2 	GALR2	8811
+455	O60755	1	Galanin receptor type 3 	GALR3	8484
+456	Q92847	1	Growth hormone secretagogue receptor type 1 	GHSR	2693
+457	Q96P66	1	Probable G-protein coupled receptor 101	GPR101	83550
+458	Q8TDV5	1	Glucose-dependent insulinotropic receptor 	GPR119	139760
+459	P47775	1	G-protein coupled receptor 12	GPR12	2835
+460	Q8IZ08	1	Probable G-protein coupled receptor 135	GPR135	64582
+461	Q6DWJ6	1	Probable G-protein coupled receptor 139 	GPR139	124274
+462	Q7Z601	1	Probable G-protein coupled receptor 142 	GPR142	350383
+463	Q8TDV2	1	Probable G-protein coupled receptor 148 	GPR148	344561
+464	Q8NGU9	1	Probable G-protein coupled receptor 150	GPR150	285601
+465	Q8TDV0	1	Probable G-protein coupled receptor 151 	GPR151	134391
+466	Q8N6U8	1	G-protein coupled receptor 161 	GPR161	23432
+467	Q9NS66	1	Probable G-protein coupled receptor 173 	GPR173	54328
+468	Q14439	1	G-protein coupled receptor 176 	GPR176	11245
+469	Q15760	1	Probable G-protein coupled receptor 19 	GPR19	2842
+470	Q99679	1	Probable G-protein coupled receptor 21	GPR21	2844
+471	Q99680	1	Probable G-protein coupled receptor 22	GPR22	2845
+472	Q8NDV2	1	G-protein coupled receptor 26	GPR26	2849
+473	Q9NS67	1	Probable G-protein coupled receptor 27 	GPR27	2850
+474	P46089	1	G-protein coupled receptor 3 	GPR3	2827
+475	O15354	1	Prosaposin receptor GPR37 	GPR37	2861
+476	O60883	1	Prosaposin receptor GPR37L1 	GPR37L1	9283
+477	O43194	1	G-protein coupled receptor 39	GPR39	2863
+478	Q9Y5Y3	1	Probable G-protein coupled receptor 45 	GPR45	11250
+479	Q9Y2T5	1	G-protein coupled receptor 52	GPR52	9293
+480	P46095	1	G-protein coupled receptor 6 	GPR6	2830
+481	Q9BZJ8	1	Probable G-protein coupled receptor 61 	GPR61	83873
+482	Q9BZJ7	1	Probable G-protein coupled receptor 62 	GPR62	118442
+483	Q9BZJ6	1	Probable G-protein coupled receptor 63 	GPR63	81491
+484	Q8IYL9	1	Psychosine receptor 	GPR65	8477
+485	Q96P69	1	G-protein coupled receptor 78	GPR78	27201
+486	Q9NYM4	1	Probable G-protein coupled receptor 83 	GPR83	10888
+487	Q9NQS5	1	G-protein coupled receptor 84 	GPR84	53831
+488	P60893	1	Probable G-protein coupled receptor 85 	GPR85	54329
+489	Q9GZN0	1	Probable G-protein coupled receptor 88 	GPR88	54112
+490	P30550	1	Gastrin-releasing peptide receptor 	GRPR	2925
+491	O43613	1	Orexin receptor type 1 	HCRTR1	3061
+492	O43614	1	Orexin receptor type 2 	HCRTR2	3062
+493	Q969F8	1	KiSS-1 receptor 	KISS1R	84634
+494	Q9HBW0	1	Lysophosphatidic acid receptor 2 	LPAR2	9170
+495	P33241	1	Lymphocyte-specific protein 1 	LSP1	4046
+496	Q15722	1	Leukotriene B4 receptor 1 	LTB4R	1241
+497	Q9NPC1	1	Leukotriene B4 receptor 2 	LTB4R2	56413
+498	Q01726	1	Melanocyte-stimulating hormone receptor 	MC1R	4157
+499	Q01718	1	Adrenocorticotropic hormone receptor 	MC2R	4158
+500	P41968	1	Melanocortin receptor 3 	MC3R	4159
+501	P32245	1	Melanocortin receptor 4 	MC4R	4160
+502	P33032	1	Melanocortin receptor 5 	MC5R	4161
+503	Q99705	1	Melanin-concentrating hormone receptor 1 	MCHR1	2847
+504	Q969V1	1	Melanin-concentrating hormone receptor 2 	MCHR2	84539
+505	O43193	1	Motilin receptor 	MLNR	2862
+506	P28336	1	Neuromedin-B receptor 	NMBR	4829
+507	Q9HB89	1	Neuromedin-U receptor 1 	NMUR1	10316
+508	Q9GZQ4	1	Neuromedin-U receptor 2 	NMUR2	56923
+509	P48145	1	Neuropeptides B/W receptor type 1 	NPBWR1	2831
+510	P48146	1	Neuropeptides B/W receptor type 2 	NPBWR2	2832
+511	Q9GZQ6	1	Neuropeptide FF receptor 1 	NPFFR1	64106
+512	Q9Y5X5	1	Neuropeptide FF receptor 2 	NPFFR2	10886
+513	Q6W5P4	1	Neuropeptide S receptor 	NPSR1	387129
+514	P25929	1	Neuropeptide Y receptor type 1 	NPY1R	4886
+515	P49146	1	Neuropeptide Y receptor type 2 	NPY2R	4887
+516	P50391	1	Neuropeptide Y receptor type 4 	NPY4R	100996758
+517	Q15761	1	Neuropeptide Y receptor type 5 	NPY5R	4889
+518	P30989	1	Neurotensin receptor type 1 	NTSR1	4923
+519	O95665	1	Neurotensin receptor type 2 	NTSR2	23620
+520	P04000	1	Long-wave-sensitive opsin 1 	OPN1LW	NA
+521	P04001	1	Medium-wave-sensitive opsin 1 	OPN1MW	101060233
+522	P03999	1	Short-wave-sensitive opsin 1 	OPN1SW	611
+523	Q9H1Y3	1	Opsin-3 	OPN3	23596
+524	Q9UHM6	1	Melanopsin 	OPN4	94233
+525	Q6U736	1	Opsin-5 	OPN5	221391
+526	P41146	1	Nociceptin receptor 	OPRL1	4987
+527	P30559	1	Oxytocin receptor 	OXTR	5021
+528	P49683	1	Prolactin-releasing peptide receptor 	PRLHR	2834
+529	Q8TCW9	1	Prokineticin receptor 1 	PROKR1	10887
+530	Q8NFJ6	1	Prokineticin receptor 2 	PROKR2	128674
+531	Q13258	1	Prostaglandin D2 receptor 	PTGDR	5729
+532	P43088	1	Prostaglandin F2-alpha receptor 	PTGFR	5737
+533	Q96P65	1	Pyroglutamylated RFamide peptide receptor 	QRFPR	84109
+534	P47804	1	RPE-retinal G protein-coupled receptor	RGR	5995
+535	P08100	1	Rhodopsin 	RHO	6010
+536	O14718	1	Visual pigment-like receptor peropsin	RRH	10692
+537	Q9NSD7	1	Relaxin-3 receptor 1 	RXFP3	51289
+538	Q8TDU9	1	Relaxin-3 receptor 2 	RXFP4	339403
+539	P30872	1	Somatostatin receptor type 1 	SSTR1	6751
+540	P30874	1	Somatostatin receptor type 2 	SSTR2	6752
+541	P32745	1	Somatostatin receptor type 3 	SSTR3	6753
+542	P31391	1	Somatostatin receptor type 4 	SSTR4	6754
+543	P35346	1	Somatostatin receptor type 5 	SSTR5	6755
+544	Q9P1P5	1	Trace amine-associated receptor 2 	TAAR2	9287
+545	O14804	1	Trace amine-associated receptor 5 	TAAR5	9038
+546	Q96RI8	1	Trace amine-associated receptor 6 	TAAR6	319100
+547	Q969N4	1	Trace amine-associated receptor 8 	TAAR8	83551
+548	P21731	1	Thromboxane A2 receptor 	TBXA2R	6915
+549	P34981	1	Thyrotropin-releasing hormone receptor 	TRHR	7201
+550	Q9UKP6	1	Urotensin-2 receptor 	UTS2R	2837
+551	P25105	1	Platelet-activating factor receptor 	PTAFR	5724
+552	Q13547	1	Histone deacetylase 1 	HDAC1	3065
+553	O15379	1	Histone deacetylase 3 	HDAC3	8841
+554	Q9UBN7	1	Histone deacetylase 6 	HDAC6	10013
+555	P36896	1	Activin receptor type-1B	ACVR1B	91
+556	P0DMS8	1	Adenosine receptor A3	ADORA3	140
+557	P09917	1	Arachidonate 5-lipoxygenase	ALOX5	240
+558	Q8NFD2	1	Ankyrin repeat and protein kinase domain-containing protein 1	ANKK1	255239
+559	Q13873	1	Bone morphogenetic protein receptor type-2	BMPR2	659
+560	Q14012	1	Calcium/calmodulin-dependent protein kinase type 1	CAMK1	8536
+561	Q8IU85	1	Calcium/calmodulin-dependent protein kinase type 1D	CAMK1D	57118
+562	Q96NX5	1	Calcium/calmodulin-dependent protein kinase type 1G	CAMK1G	57172
+563	Q13554	1	Calcium/calmodulin-dependent protein kinase type II subunit beta	CAMK2B	816
+564	Q13557	1	Calcium/calmodulin-dependent protein kinase type II subunit delta	CAMK2D	817
+565	Q13555	1	Calcium/calmodulin-dependent protein kinase type II subunit gamma	CAMK2G	818
+566	Q8N5S9	1	Calcium/calmodulin-dependent protein kinase kinase 1	CAMKK1	84254
+567	O14936	1	Peripheral plasma membrane protein CASK	CASK	8573
+568	Q6DT37	1	Serine/threonine-protein kinase MRCK gamma	CDC42BPG	55561
+569	Q96Q40	1	Cyclin-dependent kinase 15	CDK15	65061
+570	Q00536	1	Cyclin-dependent kinase 16	CDK16	5127
+571	Q00537	1	Cyclin-dependent kinase 17	CDK17	5128
+572	Q00532	1	Cyclin-dependent kinase-like 1	CDKL1	8814
+573	Q92772	1	Cyclin-dependent kinase-like 2	CDKL2	8999
+574	O96017	1	Serine/threonine-protein kinase Chk2	CHEK2	11200
+575	Q7Z460	1	CLIP-associating protein 1	CLASP1	23332
+576	P49759	1	Dual specificity protein kinase CLK1	CLK1	1195
+577	P49760	1	Dual specificity protein kinase CLK2	CLK2	1196
+578	P49761	1	Dual specificity protein kinase CLK3	CLK3	1198
+579	Q9HAZ1	1	Dual specificity protein kinase CLK4	CLK4	57396
+580	P07498	1	Kappa-casein	CSN3	1448
+581	P48729	1	Casein kinase I isoform alpha	CSNK1A1	1452
+582	P07711	1	Cathepsin L1	CTSL	1514
+583	P25774	1	Cathepsin S	CTSS	1520
+584	Q8N568	1	Serine/threonine-protein kinase DCLK2	DCLK2	166614
+585	Q13627	1	Dual specificity tyrosine-phosphorylation-regulated kinase 1A	DYRK1A	1859
+586	Q9BQI3	1	Eukaryotic translation initiation factor 2-alpha kinase 1	EIF2AK1	27102
+587	O75460	1	Serine/threonine-protein kinase/endoribonuclease IRE1	ERN1	2081
+588	O00519	1	Fatty-acid amide hydrolase 1	FAAH	2166
+589	P16591	1	Tyrosine-protein kinase Fer	FER	2241
+590	P07332	1	Tyrosine-protein kinase Fes/Fps	FES	2242
+591	P21802	1	Fibroblast growth factor receptor 2	FGFR2	2263
+592	Q9H422	1	Homeodomain-interacting protein kinase 3	HIPK3	10114
+593	Q9UPZ9	1	Serine/threonine-protein kinase ICK	ICK	22858
+594	P14616	1	Insulin receptor-related protein	INSRR	3645
+595	Q9NWZ3	1	Interleukin-1 receptor-associated kinase 4	IRAK4	51135
+596	O95835	1	Serine/threonine-protein kinase LATS1	LATS1	9113
+597	Q5S007	1	Leucine-rich repeat serine/threonine-protein kinase 2	LRRK2	120892
+598	P36507	1	Dual specificity mitogen-activated protein kinase kinase 2	MAP2K2	5605
+599	P46734	1	Dual specificity mitogen-activated protein kinase kinase 3	MAP2K3	5606
+600	P52564	1	Dual specificity mitogen-activated protein kinase kinase 6	MAP2K6	5608
+601	Q13233	1	Mitogen-activated protein kinase kinase kinase 1	MAP3K1	4214
+602	Q12852	1	Mitogen-activated protein kinase kinase kinase 12	MAP3K12	7786
+603	O43283	1	Mitogen-activated protein kinase kinase kinase 13	MAP3K13	9175
+604	Q6ZN16	1	Mitogen-activated protein kinase kinase kinase 15	MAP3K15	389840
+605	Q9Y6R4	1	Mitogen-activated protein kinase kinase kinase 4	MAP3K4	4216
+606	O95382	1	Mitogen-activated protein kinase kinase kinase 6	MAP3K6	9064
+607	Q92918	1	Mitogen-activated protein kinase kinase kinase kinase 1	MAP4K1	11184
+608	Q8IVH8	1	Mitogen-activated protein kinase kinase kinase kinase 3	MAP4K3	8491
+609	O15264	1	Mitogen-activated protein kinase 13	MAPK13	5603
+610	Q8TD08	1	Mitogen-activated protein kinase 15	MAPK15	225689
+611	P31152	1	Mitogen-activated protein kinase 4	MAPK4	5596
+612	Q8IW41	1	MAP kinase-activated protein kinase 5	MAPKAPK5	8550
+613	Q9Y2H9	1	Microtubule-associated serine/threonine-protein kinase 1	MAST1	22983
+614	Q14680	1	Maternal embryonic leucine zipper kinase	MELK	9833
+615	Q12866	1	Tyrosine-protein kinase Mer	MERTK	10461
+616	Q04912	1	Macrophage-stimulating protein receptor	MST1R	4486
+617	Q15746	1	"Myosin light chain kinase, smooth muscle"	MYLK	4638
+618	Q9H1R3	1	"Myosin light chain kinase 2, skeletal/cardiac muscle"	MYLK2	85366
+619	Q32MK0	1	Myosin light chain kinase 3	MYLK3	91807
+620	Q8NEV4	1	Myosin-IIIa	MYO3A	53904
+621	Q96PY6	1	Serine/threonine-protein kinase Nek1	NEK1	4750
+622	P51955	1	Serine/threonine-protein kinase Nek2	NEK2	4751
+623	P51956	1	Serine/threonine-protein kinase Nek3	NEK3	4752
+624	P51957	1	Serine/threonine-protein kinase Nek4	NEK4	6787
+625	Q6P3R8	1	Serine/threonine-protein kinase Nek5	NEK5	341676
+626	Q8IY84	1	Serine/threonine-protein kinase NIM1	NIM1K	167359
+627	P04629	1	High affinity nerve growth factor receptor	NTRK1	4914
+628	O95747	1	Serine/threonine-protein kinase OSR1	OXSR1	9943
+629	Q13153	1	Serine/threonine-protein kinase PAK 1	PAK1	5058
+630	Q13177	1	Serine/threonine-protein kinase PAK 2	PAK2	5062
+631	O75914	1	Serine/threonine-protein kinase PAK 3	PAK3	5063
+632	O96013	1	Serine/threonine-protein kinase PAK 4	PAK4	10298
+633	Q9P286	1	Serine/threonine-protein kinase PAK 5	PAK5	57144
+634	Q9NQU5	1	Serine/threonine-protein kinase PAK 6	PAK6	106821730; 56924
+635	O15530	1	3-phosphoinositide-dependent protein kinase 1	PDPK1	5170
+636	Q16816	1	"Phosphorylase b kinase gamma catalytic chain, skeletal muscle/heart isoform"	PHKG1	5260
+637	Q9UBF8	1	Phosphatidylinositol 4-kinase beta	PI4KB	5298
+638	P11309	1	Serine/threonine-protein kinase pim-1	PIM1	5292
+639	Q8TBX8	1	Phosphatidylinositol 5-phosphate 4-kinase type-2 gamma	PIP4K2C	79837
+640	Q9NYY3	1	Serine/threonine-protein kinase PLK2	PLK2	10769
+641	Q9H4B4	1	Serine/threonine-protein kinase PLK3	PLK3	1263
+642	P22694	1	cAMP-dependent protein kinase catalytic subunit beta	PRKACB	5567
+643	Q9UGJ0	1	5'-AMP-activated protein kinase subunit gamma-2	PRKAG2	51422
+644	Q9UGI9	1	5'-AMP-activated protein kinase subunit gamma-3	PRKAG3	53632
+645	Q05655	1	Protein kinase C delta type	PRKCD	5580
+646	P05129	1	Protein kinase C gamma type	PRKCG	5582
+647	P41743	1	Protein kinase C iota type	PRKCI	5584
+648	Q04759	1	Protein kinase C theta type	PRKCQ	5588
+649	Q15139	1	Serine/threonine-protein kinase D1	PRKD1	5587
+650	Q13237	1	cGMP-dependent protein kinase 2	PRKG2	5593
+651	Q13523	1	Serine/threonine-protein kinase PRP4 homolog	PRPF4B	8899
+652	Q9BVS4	1	Serine/threonine-protein kinase RIO2	RIOK2	55781
+653	Q13546	1	Receptor-interacting serine/threonine-protein kinase 1	RIPK1	8737
+654	P57078	1	Receptor-interacting serine/threonine-protein kinase 4	RIPK4	NA
+655	P08922	1	Proto-oncogene tyrosine-protein kinase ROS	ROS1	6098
+656	P51812	1	Ribosomal protein S6 kinase alpha-3	RPS6KA3	6197
+657	Q52WX2	1	Serine/threonine-protein kinase SBK1	SBK1	388228
+658	P0C264	1	Uncharacterized serine/threonine-protein kinase SBK3	SBK3	100130827
+659	Q96BR1	1	Serine/threonine-protein kinase Sgk3	SGK3	100533105; 23678
+660	Q99808	1	Equilibrative nucleoside transporter 1	SLC29A1	2030
+661	Q9UEE5	1	Serine/threonine-protein kinase 17A	STK17A	9263
+662	Q9Y6E0	1	Serine/threonine-protein kinase 24	STK24	8428
+663	Q9P289	1	Serine/threonine-protein kinase 26	STK26	51765
+664	Q13188	1	Serine/threonine-protein kinase 3	STK3	6788
+665	Q8WU08	1	Serine/threonine-protein kinase 32A	STK32A	202374
+666	Q8TDR2	1	Serine/threonine-protein kinase 35	STK35	140901
+667	Q15208	1	Serine/threonine-protein kinase 38	STK38	11329
+668	Q9Y2H1	1	Serine/threonine-protein kinase 38-like	STK38L	23012
+669	Q9UEW8	1	STE20/SPS1-related proline-alanine-rich protein kinase	STK39	27347
+670	Q7L7X3	1	Serine/threonine-protein kinase TAO1	TAOK1	57551
+671	Q9UL54	1	Serine/threonine-protein kinase TAO2	TAOK2	9344
+672	Q9H2K8	1	Serine/threonine-protein kinase TAO3	TAOK3	51347
+673	Q02763	1	Angiopoietin-1 receptor	TEK	7010
+674	P37173	1	TGF-beta receptor type-2	TGFBR2	7048
+675	P35590	1	Tyrosine-protein kinase receptor Tie-1	TIE1	7075
+676	Q9UKI8	1	Serine/threonine-protein kinase tousled-like 1	TLK1	9874
+677	Q86UE8	1	Serine/threonine-protein kinase tousled-like 2	TLK2	11011
+678	Q9UKE5	1	TRAF2 and NCK-interacting protein kinase	TNIK	23043
+679	Q13470	1	Non-receptor tyrosine-protein kinase TNK1	TNK1	8711
+680	Q59H18	1	Serine/threonine-protein kinase TNNI3K	TNNI3K	100526835; 51086
+681	Q9BXA7	1	Testis-specific serine/threonine-protein kinase 1	TSSK1B	83942
+682	P33981	1	Dual specificity protein kinase TTK	TTK	7272
+683	Q06418	1	Tyrosine-protein kinase receptor TYRO3	TYRO3	7301
+684	P22309	1	UDP-glucuronosyltransferase 1-1	UGT1A1	54658
+685	Q99870	1	Vesicle monoamine transporter type 2	VMAT2	NA
+686	P30291	1	Wee1-like protein kinase	WEE1	7465
+687	P43403	1	Tyrosine-protein kinase ZAP-70	ZAP70	7535
+688	P61925	1	cAMP-dependent protein kinase inhibitor alpha	PKIA	5569
+689	Q13464	1	Rho-associated protein kinase 1	ROCK1	6093
+690	Q92934	1	Bcl2-associated agonist of cell death	BAD	572
+691	P10415	1	Apoptosis regulator Bcl-2	BCL2	596
+692	Q92843	1	Bcl-2-like protein 2	BCL2L2	599
+693	Q07817	1	Bcl-2-like protein 1 	BCL2L1	598
+694	P23141	1	Liver carboxylesterase 1	CES1	1066
+695	P31040	1	"Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial"	SDHA	6389
+696	P21912	1	"Succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial "	SDHB	6390
+697	Q99643	1	"Succinate dehydrogenase cytochrome b560 subunit, mitochondrial "	SDHC	6391
+698	O14521	1	"Succinate dehydrogenase [ubiquinone] cytochrome b small subunit, mitochondrial "	SDHD	6392
+699	P27487	1	Dipeptidyl peptidase 4	DPP4	1803
+700	P00352	1	Retinal dehydrogenase 1	ALDH1A1	216
+701	O94788	1	Retinal dehydrogenase 2	ALDH1A2	8854
+702	P47895	1	Aldehyde dehydrogenase family 1 member A3	ALDH1A3	220
+703	P05090	1	Apolipoprotein D	APOD	347
+704	O75911	1	Short-chain dehydrogenase/reductase 3	DHRS3	9249
+705	Q9BTZ2	1	Dehydrogenase/reductase SDR family member 4	DHRS4	10901
+706	O60760	1	Hematopoietic prostaglandin D synthase	HPGDS	27306
+707	O95237	1	Lecithin retinol acyltransferase	LRAT	9227
+708	P09455	1	Retinol-binding protein 1	RBP1	5947
+709	P10745	1	Retinol-binding protein 3	RBP3	5949
+710	Q8TC12	1	Retinol dehydrogenase 11	RDH11	51109
+711	Q96NR8	1	Retinol dehydrogenase 12	RDH12	145226
+712	Q8NBN7	1	Retinol dehydrogenase 13	RDH13	112724
+713	Q9HBH5	1	Retinol dehydrogenase 14	RDH14	57665
+714	Q92781	1	11-cis retinol dehydrogenase	RDH5	5959
+715	Q9NYR8	1	Retinol dehydrogenase 8	RDH8	50700
+716	Q6NUM9	1	"All-trans-retinol 13,14-reductase"	RETSAT	54884
+717	P12271	1	Retinaldehyde-binding protein 1	RLBP1	6017
+718	P49747	1	Cartilage oligomeric matrix protein 	COMP	1311
+719	P09466	1	Glycodelin 	PAEP	5047
+720	P50120	1	Retinol-binding protein 2 	RBP2	5948
+721	P02753	1	Retinol-binding protein 4 	RBP4	5950
+722	P07996	1	Thrombospondin-1	THBS1	7057
+723	P35442	1	Thrombospondin-2	THBS2	7058
+724	P49746	1	Thrombospondin-3	THBS3	7059
+725	P35443	1	Thrombospondin-4	THBS4	7060
+726	P55085	1	Proteinase-activated receptor 2 	F2RL1	2150
+727	P22748	1	Carbonic anhydrase 4	CA4	762
+728	P39086	1	"Glutamate receptor ionotropic, kainate 1"	GRIK1	2897
+729	Q9ULX7	1	Carbonic anhydrase 14 	CA14	23632
+730	P35218	1	"Carbonic anhydrase 5A, mitochondrial "	CA5A	763
+731	Q9Y2D0	1	"Carbonic anhydrase 5B, mitochondrial "	CA5B	11238
+732	Q13564	1	NEDD8-activating enzyme E1 regulatory subunit 	NAE1	8883
+733	Q15843	1	NEDD8 	NEDD8	4738
+734	Q8TBC4	1	NEDD8-activating enzyme E1 catalytic subunit 	UBA3	9039
+735	P00813	1	Adenosine deaminase 	ADA	100
+736	Q9NZK5	1	Adenosine deaminase 2 	ADA2	51816
+737	P23109	1	AMP deaminase 1 	AMPD1	270
+738	Q01433	1	AMP deaminase 2 	AMPD2	271
+739	Q01432	1	AMP deaminase 3 	AMPD3	272
+740	O00408	1	"cGMP-dependent 3',5'-cyclic phosphodiesterase "	PDE2A	5138
+741	P08069	1	Insulin-like growth factor 1 receptor 	IGF1R	3480
+742	O15111	1	Inhibitor of nuclear factor kappa-B kinase subunit alpha 	CHUK	1147
+743	Q05329	1	Glutamate decarboxylase 2	GAD2	2572
+744	P24298	1	Alanine aminotransferase 1	GPT	2875
+745	Q8TD30	1	Alanine aminotransferase 2	GPT2	84706
+746	Q9H9B1	1	Histone-lysine N-methyltransferase EHMT1 	EHMT1	79813
+747	Q96KQ7	1	Histone-lysine N-methyltransferase EHMT2 	EHMT2	10919
+748	Q9NYX4	1	Neuron-specific vesicular protein calcyon	CALY	50632
+749	P26447	1	Protein S100-A4	S100A4	6275
+750	Q15125	1	3-beta-hydroxysteroid-Delta	EBP	10682
+751	Q9BY08	1	Emopamil-binding protein-like 	EBPL	84650
+752	P24046	1	Gamma-aminobutyric acid receptor subunit rho-1 	GABRR1	2569
+753	P28476	1	Gamma-aminobutyric acid receptor subunit rho-2 	GABRR2	2570
+754	A8MPY1	1	Gamma-aminobutyric acid receptor subunit rho-3 	GABRR3	200959
+755	P09874	1	Poly [ADP-ribose] polymerase 1	PARP1	142
+756	Q9UGN5	1	Poly [ADP-ribose] polymerase 2	PARP2	10038
+757	Q9Y6F1	1	Poly [ADP-ribose] polymerase 3	PARP3	10039
+758	P11388	1	DNA topoisomerase 2-alpha	TOP2A	7153
+759	Q02880	1	DNA topoisomerase 2-beta	TOP2B	7155
+760	P33527	1	Multidrug resistance-associated protein 1 	ABCC1	4363
+761	P06276	1	Cholinesterase 	BCHE	590
+762	P45954	1	"Short/branched chain specific acyl-CoA dehydrogenase, mitochondrial"	ACADSB	36
+763	P51649	1	"Succinate-semialdehyde dehydrogenase, mitochondrial"	ALDH5A1	7915
+764	Q92769	1	Histone deacetylase 2	HDAC2	3066
+765	Q9UKV0	1	Histone deacetylase 9	HDAC9	9734
+766	Q02218	1	"2-oxoglutarate dehydrogenase, mitochondrial"	OGDH	4967
+767	Q07869	1	Peroxisome proliferator-activated receptor alpha	PPARA	5465
+768	Q03181	1	Peroxisome proliferator-activated receptor delta	PPARD	5467
+769	P37231	1	Peroxisome proliferator-activated receptor gamma	PPARG	5468
+770	Q07699	1	Sodium channel subunit beta-1	SCN1B	6324
+771	Q99250	1	Sodium channel protein type 2 subunit alpha	SCN2A	6326
+772	O60939	1	Sodium channel subunit beta-2	SCN2B	6327
+773	Q9NY72	1	Sodium channel subunit beta-3	SCN3B	55800
+774	P35499	1	Sodium channel protein type 4 subunit alpha	SCN4A	6329
+775	Q8IWT1	1	Sodium channel subunit beta-4	SCN4B	6330
+776	Q01118	1	Sodium channel protein type 7 subunit alpha	SCN7A	6332
+777	P00734	1	Prothrombin 	F2	2147
+778	P11678	1	Eosinophil peroxidase 	EPX	8288
+779	P22079	1	Lactoperoxidase 	LPO	4025
+780	P05164	1	Myeloperoxidase 	MPO	4353
+781	Q92626	1	Peroxidasin homolog 	PXDN	7837
+782	A1KZ92	1	Peroxidasin-like protein 	PXDNL	137902
+783	P07202	1	Thyroid peroxidase 	TPO	7173
+784	P31939	1	Bifunctional purine biosynthesis protein PURH	ATIC	471
+785	Q8TDC3	1	Serine/threonine-protein kinase BRSK1 	BRSK1	84446
+786	Q8IWQ3	1	Serine/threonine-protein kinase BRSK2 	BRSK2	9024
+787	P22234	1	Multifunctional protein ADE2 [Includes: Phosphoribosylaminoimidazole-succinocarboxamide synthase 	PAICS	10606
+788	O00459	1	Phosphatidylinositol 3-kinase regulatory subunit beta 	PIK3R2	5296
+789	Q92569	1	Phosphatidylinositol 3-kinase regulatory subunit gamma 	PIK3R3	8503
+790	P19801	1	Amiloride-sensitive amine oxidase [copper-containing] 	AOC1	26
+791	O75106	1	Retina-specific copper amine oxidase 	AOC2	314
+792	Q9Y2I1	1	Nischarin 	NISCH	11188
+793	Q92630	1	Dual specificity tyrosine-phosphorylation-regulated kinase 2 	DYRK2	8445
+794	Q9P1W9	1	Serine/threonine-protein kinase pim-2 	PIM2	11040
+795	P01189	1	Pro-opiomelanocortin	POMC	5443
+796	O43708	1	Maleylacetoacetate isomerase	GSTZ1	2954
+797	Q15118	1	"[Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 1, mitochondrial"	PDK1	5163
+798	Q15119	1	"[Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 2, mitochondrial "	PDK2	5164
+799	Q9BVC4	1	Target of rapamycin complex subunit LST8 	MLST8	64223
+800	Q8NEB9	1	Phosphatidylinositol 3-kinase catalytic subunit type 3 	PIK3C3	5289
+801	Q8IZS8	1	Voltage-dependent calcium channel subunit alpha-2/delta-3	CACNA2D3	55799
+802	Q06432	1	Voltage-dependent calcium channel gamma-1 subunit	CACNG1	786
+803	P18405	1	3-oxo-5-alpha-steroid 4-dehydrogenase 1	SRD5A1	6715
+804	P31213	1	3-oxo-5-alpha-steroid 4-dehydrogenase 2	SRD5A2	6716
+805	P09958	1	Furin	FURIN	5045
+806	Q04828	1	Aldo-keto reductase family 1 member C1 	AKR1C1	1645
+807	P52895	1	Aldo-keto reductase family 1 member C2 	AKR1C2	1646
+808	P42330	1	Aldo-keto reductase family 1 member C3 	AKR1C3	8644
+809	P51857	1	3-oxo-5-beta-steroid 4-dehydrogenase 	AKR1D1	6718
+810	P45985	1	Dual specificity mitogen-activated protein kinase kinase 4 	MAP2K4	6416
+811	P10827	1	Thyroid hormone receptor alpha	THRA	7067
+812	P10828	1	Thyroid hormone receptor beta	THRB	7068
+813	Q14894	1	Ketimine reductase mu-crystallin 	CRYM	1428
+814	P47712	1	Cytosolic phospholipase A2	PLA2G4A	5321
+815	O60733	1	85/88 kDa calcium-independent phospholipase A2	PLA2G6	8398
+816	Q15111	1	Inactive phospholipase C-like protein 1	PLCL1	5334
+817	P50135	1	Histamine N-methyltransferase 	HNMT	3176
+818	P28329	1	Choline O-acetyltransferase	CHAT	1103
+819	P32298	1	G protein-coupled receptor kinase 4 	GRK4	2868
+820	Q8NE63	1	Homeodomain-interacting protein kinase 4 	HIPK4	147746
+821	Q9HC98	1	Serine/threonine-protein kinase Nek6 	NEK6	10783
+822	Q8TDX7	1	Serine/threonine-protein kinase Nek7 	NEK7	140609
+823	Q99755	1	Phosphatidylinositol 4-phosphate 5-kinase type-1 alpha 	PIP5K1A	8394
+824	O75676	1	Ribosomal protein S6 kinase alpha-4 	RPS6KA4	8986
+825	Q96SB4	1	SRSF protein kinase 1 	SRPK1	6732
+826	P78362	1	SRSF protein kinase 2 	SRPK2	6733
+827	Q9UPE1	1	SRSF protein kinase 3 	SRPK3	26576
+828	P25705	1	"ATP synthase subunit alpha, mitochondrial"	ATP5A1	498
+829	P06576	1	"ATP synthase subunit beta, mitochondrial "	ATP5B	506
+830	P36542	1	"ATP synthase subunit gamma, mitochondrial "	ATP5C1	509
+831	P30049	1	"ATP synthase subunit delta, mitochondrial "	ATP5D	513
+832	P56381	1	"ATP synthase subunit epsilon, mitochondrial "	ATP5E	514
+833	Q5VTU8	1	"ATP synthase subunit epsilon-like protein, mitochondrial"	ATP5EP2	NA
+834	P05496	1	ATP synthase F	ATP5G1	516
+835	Q06055	1	ATP synthase F	ATP5G2	517
+836	P48201	1	ATP synthase F	ATP5G3	518
+837	Q99437	1	V-type proton ATPase 21 kDa proteolipid subunit 	ATP6V0B	533
+838	P27449	1	V-type proton ATPase 16 kDa proteolipid subunit 	ATP6V0C	527
+839	Q5JTJ3	1	Cytochrome c oxidase assembly factor 6 homolog	COA6	388753
+840	P13073	1	"Cytochrome c oxidase subunit 4 isoform 1, mitochondrial "	COX4I1	1327
+841	Q96KJ9	1	"Cytochrome c oxidase subunit 4 isoform 2, mitochondrial "	COX4I2	84701
+842	P20674	1	"Cytochrome c oxidase subunit 5A, mitochondrial "	COX5A	9377
+843	P10606	1	"Cytochrome c oxidase subunit 5B, mitochondrial "	COX5B	1329
+844	P12074	1	"Cytochrome c oxidase subunit 6A1, mitochondrial "	COX6A1	1337
+845	Q02221	1	"Cytochrome c oxidase subunit 6A2, mitochondrial "	COX6A2	1339
+846	P14854	1	Cytochrome c oxidase subunit 6B1 	COX6B1	1340
+847	Q6YFQ2	1	Cytochrome c oxidase subunit 6B2 	COX6B2	125965
+848	P09669	1	Cytochrome c oxidase subunit 6C 	COX6C	1345
+849	P24310	1	"Cytochrome c oxidase subunit 7A1, mitochondrial "	COX7A1	1346
+850	P24311	1	"Cytochrome c oxidase subunit 7B, mitochondrial "	COX7B	1349
+851	Q8TF08	1	"Cytochrome c oxidase subunit 7B2, mitochondrial "	COX7B2	170712
+852	P15954	1	"Cytochrome c oxidase subunit 7C, mitochondrial "	COX7C	1350
+853	P07099	1	Epoxide hydrolase 1 	EPHX1	2052
+854	P34913	1	Bifunctional epoxide hydrolase 2 [Includes: Cytosolic epoxide hydrolase 2 	EPHX2	2053
+855	P00395	1	Cytochrome c oxidase subunit 1 	MT-CO1	4512
+856	P00403	1	Cytochrome c oxidase subunit 2 	MT-CO2	4513
+857	P00414	1	Cytochrome c oxidase subunit 3 	MT-CO3	4514
+858	Q9Y5S2	1	Serine/threonine-protein kinase MRCK beta 	CDC42BPB	9578
+859	Q15349	1	Ribosomal protein S6 kinase alpha-2 	RPS6KA2	6196
+860	O00264	1	Membrane-associated progesterone receptor component 1	PGRMC1	10857
+861	P11274	1	Breakpoint cluster region protein	BCR	613
+862	P11142	1	Heat shock cognate 71 kDa protein	HSPA8	3312
+863	Q92570	1	Nuclear receptor subfamily 4 group A member 3	NR4A3	8013
+864	Q06203	1	Amidophosphoribosyltransferase	PPAT	5471
+865	P51692	1	Signal transducer and activator of transcription 5B	STAT5B	6777
+866	P27037	1	Activin receptor type-2A 	ACVR2A	92
+867	P37023	1	Serine/threonine-protein kinase receptor R3 	ACVRL1	94
+868	P10398	1	Serine/threonine-protein kinase A-Raf 	ARAF	369
+869	Q5JZY3	1	Ephrin type-A receptor 10 	EPHA10	284656
+870	P54753	1	Ephrin type-B receptor 3 	EPHB3	2049
+871	P21860	1	Receptor tyrosine-protein kinase erbB-3 	ERBB3	2065
+872	Q01538	1	Myelin transcription factor 1 	MYT1	4661
+873	Q9UBE8	1	Serine/threonine-protein kinase NLK 	NLK	51701
+874	P0C1S8	1	Wee1-like protein kinase 2 	WEE2	494551
+875	P50750	1	Cyclin-dependent kinase 9	CDK9	1025
+876	P49674	1	Casein kinase I isoform epsilon	CSNK1E	102800317; 1454
+877	P28482	1	Mitogen-activated protein kinase 1	MAPK1	5594
+878	P27361	1	Mitogen-activated protein kinase 3	MAPK3	5595
+879	P78396	1	Cyclin-A1	CCNA1	8900
+880	P20248	1	Cyclin-A2 	CCNA2	890
+881	P14635	1	G2/mitotic-specific cyclin-B1	CCNB1	891
+882	O95067	1	G2/mitotic-specific cyclin-B2	CCNB2	9133
+883	Q8WWL7	1	G2/mitotic-specific cyclin-B3	CCNB3	85417
+884	P41002	1	Cyclin-F 	CCNF	899
+885	P51959	1	Cyclin-G1 	CCNG1	900
+886	Q16589	1	Cyclin-G2	CCNG2	901
+887	Q14094	1	Cyclin-I	CCNI	10983
+888	Q6ZMN8	1	Cyclin-I2	CCNI2	645121
+889	P22674	1	Cyclin-O	CCNO	10309
+890	Q00535	1	Cyclin-dependent-like kinase 5 	CDK5	1020
+891	Q15078	1	Cyclin-dependent kinase 5 activator 1 	CDK5R1	8851
+892	Q9H8S5	1	Cyclin N-terminal domain-containing protein 2	CNTD2	79935
+893	P31751	1	RAC-beta serine/threonine-protein kinase 	AKT2	208
+894	Q9Y243	1	RAC-gamma serine/threonine-protein kinase 	AKT3	10000
+895	P35638	1	DNA damage-inducible transcript 3 protein 	DDIT3	1649
+896	Q6P435	1	Putative uncharacterized SMG1-like protein	NA	NA
+897	P17861	1	X-box-binding protein 1 	XBP1	7494
+898	Q09470	1	Potassium voltage-gated channel subfamily A member 1	KCNA1	3736
+899	Q8NEC5	1	Cation channel sperm-associated protein 1 	CATSPER1	117144
+900	Q8IZF0	1	Sodium leak channel non-selective protein 	NALCN	259232
+901	P18545	1	"Retinal rod rhodopsin-sensitive cGMP 3',5'-cyclic phosphodiesterase subunit gamma"	PDE6G	5148
+902	Q13956	1	"Retinal cone rhodopsin-sensitive cGMP 3',5'-cyclic phosphodiesterase subunit gamma"	PDE6H	5149
+903	Q13370	1	"cGMP-inhibited 3',5'-cyclic phosphodiesterase B "	PDE3B	5140
+904	P13500	1	C-C motif chemokine 2	CCL2	6347
+905	P48147	1	Prolyl endopeptidase	PREP	5550
+906	Q9UNI1	1	Chymotrypsin-like elastase family member 1 	CELA1	1990
+907	P11387	1	DNA topoisomerase 1 	TOP1	7150
+908	Q5J8X5	1	Membrane-spanning 4-domains subfamily A member 13 	MS4A13	503497
+909	Q14654	1	ATP-sensitive inward rectifier potassium channel 11	KCNJ11	3767
+910	P08183	1	Multidrug resistance protein 1 	ABCB1	5243
+911	P30536	1	Translocator protein 	TSPO	706
+912	Q5TGU0	1	Translocator protein 2 	TSPO2	222642
+913	O60706	1	ATP-binding cassette sub-family C member 9	ABCC9	10060
+914	Q9H244	1	P2Y purinoceptor 12	P2RY12	64805
+915	P05023	1	Sodium/potassium-transporting ATPase subunit alpha-1	ATP1A1	476
+916	P51787	1	Potassium voltage-gated channel subfamily KQT member 1	KCNQ1	3784
+917	P54750	1	"Calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase 1A"	PDE1A	5136
+918	Q01064	1	"Calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase 1B"	PDE1B	5153
+919	Q9NZU7	1	Calcium-binding protein 1 	CABP1	9478
+920	Q9NPB3	1	Calcium-binding protein 2 	CABP2	51475
+921	P57796	1	Calcium-binding protein 4 	CABP4	57010
+922	Q9NP86	1	Calcium-binding protein 5 	CABP5	56344
+923	Q86V35	1	Calcium-binding protein 7 	CABP7	164633
+924	P05937	1	Calbindin 	CALB1	793
+925	P22676	1	Calretinin 	CALB2	794
+926	P27482	1	Calmodulin-like protein 3 	CALML3	810
+927	Q96GE6	1	Calmodulin-like protein 4 	CALML4	91860
+928	Q9NZT1	1	Calmodulin-like protein 5 	CALML5	51806
+929	Q8TD86	1	Calmodulin-like protein 6 	CALML6	163688
+930	Q9BXU9	1	Calcium-binding protein 8 	CALN1	83698
+931	Q9BUY7	1	EF-hand calcium-binding domain-containing protein 11	EFCAB11	90141
+932	Q8IY85	1	EF-hand calcium-binding domain-containing protein 13	EFCAB13	124989
+933	Q5VUJ9	1	EF-hand calcium-binding domain-containing protein 2	EFCAB2	84288
+934	Q8N7B9	1	EF-hand calcium-binding domain-containing protein 3	EFCAB3	146779
+935	Q5THR3	1	EF-hand calcium-binding domain-containing protein 6 	EFCAB6	64800
+936	A8K855	1	EF-hand calcium-binding domain-containing protein 7	EFCAB7	84455
+937	A8MZ26	1	EF-hand calcium-binding domain-containing protein 9	EFCAB9	285588
+938	P0CE72	1	Oncomodulin-1 	OCM	654231
+939	P0CE71	1	Putative oncomodulin-2	OCM2	4951
+940	P20472	1	Parvalbumin alpha	PVALB	5816
+941	P58872	1	Rhomboid-related protein 3 	RHBDL3	162494
+942	O76038	1	Secretagogin	SCGN	10590
+943	Q7Z572	1	Spermatogenesis-associated protein 21	SPATA21	374955
+944	P02585	1	"Troponin C, skeletal muscle"	TNNC2	7125
+945	Q14457	1	Beclin-1	BECN1	8678
+946	Q99527	1	G-protein coupled estrogen receptor 1	GPER1	2852
+947	P37059	1	Estradiol 17-beta-dehydrogenase 2	HSD17B2	3294
+948	P00846	1	ATP synthase subunit a	MT-ATP6	4508
+949	Q06278	1	Aldehyde oxidase 	AOX1	316
+950	P50225	1	Sulfotransferase 1A1 	SULT1A1	6817
+951	P49888	1	Estrogen sulfotransferase 	SULT1E1	6783
+952	P09172	1	Dopamine beta-hydroxylase	DBH	1621
+953	Q05940	1	Synaptic vesicular amine transporter	SLC18A2	6571
+954	P00441	1	Superoxide dismutase [Cu-Zn]	SOD1	6647
+955	P16083	1	Ribosyldihydronicotinamide dehydrogenase [quinone] 	NQO2	4835
+956	P00439	1	Phenylalanine-4-hydroxylase 	PAH	5053
+957	Q9Y5Y4	1	Prostaglandin D2 receptor 2	PTGDR2	11251
+958	P68133	1	"Actin, alpha skeletal muscle"	ACTA1	58
+959	Q969V6	1	MKL/myocardin-like protein 1	MKL1	57591
+960	Q8WWL2	1	Protein spire homolog 2	SPIRE2	84501
+961	P62736	1	"Actin, aortic smooth muscle "	ACTA2	59
+962	P60709	1	"Actin, cytoplasmic 1 "	ACTB	60
+963	Q562R1	1	Beta-actin-like protein 2 	ACTBL2	345651
+964	P68032	1	"Actin, alpha cardiac muscle 1 "	ACTC1	70
+965	P63261	1	"Actin, cytoplasmic 2 "	ACTG1	71
+966	P63267	1	"Actin, gamma-enteric smooth muscle "	ACTG2	72
+967	Q5JWF8	1	Actin-like protein 10	ACTL10	170487
+968	O96019	1	Actin-like protein 6A 	ACTL6A	86
+969	O94805	1	Actin-like protein 6B 	ACTL6B	51412
+970	Q9Y615	1	Actin-like protein 7A 	ACTL7A	10881
+971	Q9Y614	1	Actin-like protein 7B 	ACTL7B	10880
+972	Q9H568	1	Actin-like protein 8 	ACTL8	81569
+973	Q8TC94	1	Actin-like protein 9	ACTL9	284382
+974	Q9NZ32	1	Actin-related protein 10 	ACTR10	55860
+975	P61163	1	Alpha-centractin 	ACTR1A	10121
+976	P42025	1	Beta-centractin 	ACTR1B	10120
+977	P61160	1	Actin-related protein 2 	ACTR2	10097
+978	P61158	1	Actin-related protein 3 	ACTR3	10096
+979	Q9P1U1	1	Actin-related protein 3B 	ACTR3B	57180
+980	Q9C0K3	1	Actin-related protein 3C 	ACTR3C	653857
+981	Q9H981	1	Actin-related protein 8 	ACTR8	93973
+982	Q8TDG2	1	Actin-related protein T1 	ACTRT1	139741
+983	Q8TDY3	1	Actin-related protein T2 	ACTRT2	140625
+984	Q9BYD9	1	Actin-related protein T3 	ACTRT3	84517
+985	Q9ULH7	1	MKL/myocardin-like protein 2 	MKL2	57496
+986	Q9C0D0	1	Phosphatase and actin regulator 1	PHACTR1	221692
+987	O75167	1	Phosphatase and actin regulator 2	PHACTR2	9749
+988	A5A3E0	1	POTE ankyrin domain family member F 	POTEF	728378
+989	P0CG38	1	POTE ankyrin domain family member I	POTEI	653269
+990	P0CG39	1	POTE ankyrin domain family member J	POTEJ	653781
+991	Q9BYX7	1	Putative beta-actin-like protein 3 	POTEKP	NA
+992	Q08AE8	1	Protein spire homolog 1 	SPIRE1	56907
+993	P16112	1	Aggrecan core protein	ACAN	176
+994	Q9UKQ2	1	Disintegrin and metalloproteinase domain-containing protein 28	ADAM28	10863
+995	O14672	1	Disintegrin and metalloproteinase domain-containing protein 10 	ADAM10	102
+996	O43184	1	Disintegrin and metalloproteinase domain-containing protein 12 	ADAM12	8038
+997	P78536	1	Disintegrin and metalloproteinase domain-containing protein 17 	ADAM17	6868
+998	Q13443	1	Disintegrin and metalloproteinase domain-containing protein 9 	ADAM9	8754
+999	P03956	1	Interstitial collagenase 	MMP1	4312
+1000	P45452	1	Collagenase 3 	MMP13	4322
+1001	P50281	1	Matrix metalloproteinase-14 	MMP14	4323
+1002	P51511	1	Matrix metalloproteinase-15 	MMP15	4324
+1003	P51512	1	Matrix metalloproteinase-16 	MMP16	4325
+1004	Q9ULZ9	1	Matrix metalloproteinase-17 	MMP17	4326
+1005	P08253	1	72 kDa type IV collagenase 	MMP2	4313
+1006	Q9NRE1	1	Matrix metalloproteinase-26 	MMP26	56547
+1007	P08254	1	Stromelysin-1 	MMP3	4314
+1008	P09237	1	Matrilysin 	MMP7	4316
+1009	P22894	1	Neutrophil collagenase 	MMP8	4317
+1010	P14780	1	Matrix metalloproteinase-9 	MMP9	4318
+1011	P48551	1	Interferon alpha/beta receptor 2	IFNAR2	3455
+1012	P17405	1	Sphingomyelin phosphodiesterase	SMPD1	6609
