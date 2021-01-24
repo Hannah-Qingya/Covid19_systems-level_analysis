@@ -19,3 +19,10 @@ DESeq2_anticytokine.ipynb: code for evaluation of host-targeted anti-hyperinflam
 CTI_similarity.py: code for calculating interaction-pattern-based similarities between compounds
 
 Clustering.py: code for clustering the compounds into different groups based on the CTI similarities calculated above. 
+
+==================================================================
+
+Websites
+
+QuartataWeb: http://quartata.csb.pitt.edu/, used to retrieve the known drug-target interactions from DrugBank and STITCH datasets
+Enrichr: https://maayanlab.cloud/Enrichr/, used for pathway enrichment on 348 host genes associated with SARS-CoV-2 infection
